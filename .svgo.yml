@@ -52,5 +52,10 @@ plugins:
   - removeDesc
   - removeDimensions
   - removeAttrs
-  - addClassesToSVGElement
+  - addClassesToSVGElement: false
+  - addAttributesToSVGElement:
+        attributes: [
+                {name: 'height', value: '100%'},
+                {name: 'width', value: '100%'}
+            ]
   - removeStyleElement
