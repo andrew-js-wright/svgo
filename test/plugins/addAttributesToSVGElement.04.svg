@@ -1,0 +1,14 @@
+<svg id="test" xmlns="http://www.w3.org/2000/svg" height="50%" width="50%"/>
+
+@@@
+
+<svg id="test" xmlns="http://www.w3.org/2000/svg" height="100%" width="100%"/>
+
+@@@
+
+{
+    "attributes": [
+        { "name": "height", "value": "100%" },
+        { "name": "width", "value": "100%" }
+    ]
+}
