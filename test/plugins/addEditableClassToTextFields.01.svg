@@ -1,0 +1,13 @@
+<svg id="test" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <text text-anchor="middle" id="0"/>
+    </g>
+</svg>
+
+@@@
+
+<svg id="test" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <text text-anchor="middle" id="0" class="editable"/>
+    </g>
+</svg>
